@@ -9,3 +9,4 @@ git remote add upstream https://github.com/georgeosantiago/PruebasAngular.git
 
 git remote -v
 
+git config --global credential.helper wincred
