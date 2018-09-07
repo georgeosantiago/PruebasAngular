@@ -1,7 +1,7 @@
 # Pruebas en Angular
 Pruebas con el Framework Angular
 
-- Instalar tu proyecto
+- Instalar en tu equipo
 
 git clone https://github.com/georgeosantiago/PruebasAngular.git
 
